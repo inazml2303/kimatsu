@@ -1,2 +1,2 @@
-function sayhello61(){alert('Hello,Function!');}
-function saygoodbye61(){alert('Goodbye.');}
+function sayhello61(){alert('私の愛車を紹介します');}
+
